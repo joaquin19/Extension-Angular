@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Angular Extension",
+    "version": "1.0",
+    "descripcion": "Angular Extension!",
+    "icons": {
+        "128": "bux.png",
+        "48": "bux.png",
+        "16": "dollar.png"
+    },
+    "browser_action": {
+        "default_icon": "dollar.png",
+        "default_popup": "app.component.html"
+    }
+}
