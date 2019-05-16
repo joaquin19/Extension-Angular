@@ -6,10 +6,10 @@
     "icons": {
         "128": "bux.png",
         "48": "bux.png",
-        "16": "dollar.png"
+        "16": "angular.png"
     },
     "browser_action": {
-        "default_icon": "dollar.png",
+        "default_icon": "angular.png",
         "default_popup": "app.component.html"
     }
 }
